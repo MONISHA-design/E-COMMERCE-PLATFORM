@@ -1,4 +1,4 @@
-import Product from '../models/Product.js';
+import Product from '../models/product.js';
 import { cloudinary } from '../database/cloudinary.js';
 import DataUriParser from 'datauri/parser.js';
 import path from 'path';
